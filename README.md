@@ -5,7 +5,23 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+ZiwenLi;+Welcome+to+My+Profile!;My+research+directions+is+3D+Reconstruction;Always+learning+new+things...+;)](https://git.io/typing-svg)
 
-<div style="height: 3px; background: linear-gradient(90deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #9400D3); margin: 15px 0;"></div>
+<div style="height: 3px;
+            background: linear-gradient(90deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #9400D3);
+            background-size: 300% 100%;
+            margin: 15px 0;
+            animation: slide 3s linear infinite;">
+</div>
+
+<style>
+@keyframes slide {
+  0% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+</style>
 
 - 🔭  I'm a college student majoring in SE from Southwest University
 - 🌱  My current research directions are 3D reconstruction and embodied intelligence
