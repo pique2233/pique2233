@@ -13,6 +13,10 @@
 
 <div style="height: 3px; background: linear-gradient(90deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #9400D3); margin: 15px 0;"></div>
 
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pique2233&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pique2233&theme=default)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default)
 
 <!--
