@@ -11,7 +11,18 @@
 - 🌱  My current research directions are 3D reconstruction and embodied intelligence
 - ☕   Python, React, C/C++, Next.js...
 
-<div style="height: 3px; background: linear-gradient(90deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #9400D3); margin: 15px 0;"></div>
+<div style="height: 3px; background: linear-gradient(90deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #9400D3); background-size: 300% 100%; margin: 15px 0; animation: slide 3s linear infinite;"></div>
+
+<style>
+  @keyframes slide {
+    0% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+</style>
 
 <div style="display: flex; align-items: center;">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default" alt="Top Languages">
