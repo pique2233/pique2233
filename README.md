@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&theme=github_dark_dimmed)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default)
 ![](https://raw.githubusercontent.com/pique2233/github-stats/master/generated/languages.svg#gh-light-mode-only)
 <!--
 **pique2233/pique2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
