@@ -1,6 +1,20 @@
-## Hi there 👋
+### Hi, I'm Ziwen Li 👋👋👋
+
+[![Blog Badge](https://img.shields.io/badge/Blog-pique2233.github.io-blue?style=flat&logo=hugo&labelColor=555&logoColor=white)](https://pique2233.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/Mail-19823000405@163.com-blue?style=flat&labelColor=555&logo=gmail&link=mailto:eallions@gmail.com&logoColor=fff)](mailto:19823000405@163.com)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+ZiwenLi;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things...+;)](https://git.io/typing-svg)
+
+<div style="height: 3px; background: linear-gradient(90deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #9400D3); margin: 15px 0;"></div>
+
+- 🔭  I'm a college student majoring in SE from Southwest University
+- 🌱  My current research directions are 3D reconstruction and embodied intelligence
+- ☕   Python, React, C/C++, Next.js...
+
+<div style="height: 3px; background: linear-gradient(90deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #9400D3); margin: 15px 0;"></div>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default)
-![](https://raw.githubusercontent.com/pique2233/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 <!--
 **pique2233/pique2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
