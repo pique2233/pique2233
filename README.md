@@ -17,6 +17,8 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default" alt="Top Languages">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pique2233&hide_border=true&theme=default" alt="GitHub Streak Stats" style="margin-right: 10px;">
 </div>
+
+<img src="https://imgur.com/rilHVxA.png"/>
 <!--
 **pique2233/pique2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
