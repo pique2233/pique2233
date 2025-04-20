@@ -18,12 +18,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pique2233&hide_border=true&theme=default" alt="GitHub Streak Stats" style="margin-right: 10px;">
 </div>
 
-<img src="https://imgur.com/rilHVxA.png"/>
+
+![](assets/Bottom_down.svg)
 <!--
 **pique2233/pique2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<img src="https://imgur.com/rilHVxA.png"/>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
