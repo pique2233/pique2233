@@ -14,7 +14,7 @@
 
 
 <div style="display: flex; align-items: center;">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&theme=github&langs_count=10&layout=compact&hide=html,css" alt="Top Langs" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pique2233&hide_border=true&theme=default" alt="GitHub Streak Stats" style="margin-right: 10px;">
 </div>
 
