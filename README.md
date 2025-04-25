@@ -12,11 +12,12 @@
 - ☕   Python, React, C/C++, Next.js...
 
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 16px;">
-  <div style="flex: 1; min-width: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default&langs_count=10" alt="Top Languages" style="max-width: 100%; height: auto;">
+<div style="display: flex; align-items: flex-start; gap: 16px;">
+  <div style="display: flex; flex-direction: column; gap: 8px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default&langs_count=5" alt="Top Languages" style="max-width: 100%; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default&langs_count=5&hide=html" alt="Other Languages" style="max-width: 100%; height: auto;">
   </div>
-  <div style="flex: 1; min-width: 300px; text-align: right;">
+  <div>
     <img alt="coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw3bWdpemd6bHFoa3BtMDV6ZndsZGh2c2hmcGhmMW95N2I2cmpybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y9eMvvoSquSNCilfDT/giphy.gif" style="max-width: 100%; height: auto;">
   </div>
 </div>
