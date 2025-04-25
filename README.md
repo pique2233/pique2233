@@ -10,19 +10,14 @@
 - 🔭  I'm a college student majoring in SE from Southwest University
 - 🌱  My current research directions are 3D reconstruction and embodied intelligence
 - ☕   Python, React, C/C++, Next.js...
-
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default&langs_count=5" alt="Top Languages"/><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default&langs_count=5&hide=html" alt="Other Languages"/>
-    </td>
-    <td>
-       <img alt="coding" width="300" src="https://media.giphy.com/media/vNzpGA4yvdxejLefpz/giphy.gif?cid=ecf05e47mniesuqmo3823nntprhnvfm3ohrdl8rd20clndd6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-    </td>
-    </td>
-  </tr>
-</table>
+<p>
+  <!-- 第一张语言图 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default&langs_count=5" alt="Top Languages"><br>
+  <!-- 第二张语言图与 GIF 并排，用 &nbsp; 控制水平间距 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default&langs_count=5&hide=html" alt="Other Languages">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="coding" width="300" src="https://media.giphy.com/media/vNzpGA4yvdxejLefpz/giphy.gif?cid=ecf05e47mniesuqmo3823nntprhnvfm3ohrdl8rd20clndd6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</p>
 
 
 ![](assets/Bottom_down.svg)
