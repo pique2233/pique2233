@@ -15,7 +15,8 @@
 
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default&langs_count=10" alt="Top Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pique2233&hide_border=true&theme=default" alt="GitHub Streak Stats" style="margin-right: 10px;">
+  <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw3bWdpemd6bHFoa3BtMDV6ZndsZGh2c2hmcGhmMW95N2I2cmpybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y9eMvvoSquSNCilfDT/giphy.gif">
+
 </div>
 
 
