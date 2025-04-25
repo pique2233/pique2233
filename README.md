@@ -19,7 +19,7 @@
   
   <!-- 右侧：GIF 图片 -->
   <div>
-    <img alt="coding" width="300" src="https://media.giphy.com/media/KHh7jLrG6gIXBTnxsp/giphy.gif?cid=ecf05e478uas0hmmsnf457taswzozw8buwto9kluzr2ste46&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="max-width: 100%; height: auto;">
+    <img alt="coding" width="500" src="https://media.giphy.com/media/KHh7jLrG6gIXBTnxsp/giphy.gif?cid=ecf05e478uas0hmmsnf457taswzozw8buwto9kluzr2ste46&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="max-width: 100%; height: auto;">
   </div>
 </div>
 
