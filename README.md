@@ -21,7 +21,7 @@
   
   <!-- 右侧：GIF 图片 -->
   <div>
-    <img alt="coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw3bWdpemd6bHFoa3BtMDV6ZndsZGh2c2hmcGhmMW95N2I2cmpybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y9eMvvoSquSNCilfDT/giphy.gif" style="max-width: 100%; height: auto;">
+    <img alt="coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw3bWdpemd6bHFoa3BtMDV6ZndsZGh2c2hmcGhmMW95N2I2cmpybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y9eMvvoSquSNCilfDT/giphy.gif" style="max-width: 100%; height: auto;">
   </div>
 </div>
 
