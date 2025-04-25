@@ -11,21 +11,24 @@
 - 🌱  My current research directions are 3D reconstruction and embodied intelligence
 - ☕   Python, React, C/C++, Next.js...
 <p>
-  <!-- 左图：语言统计（靠左浮动） -->
+  <!-- 第一张语言图，左浮动 -->
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default&langs_count=5"
     alt="Top Languages"
-    width="220"
+    width="300"
   />
-  <!-- 右图：GIF（靠右浮动） -->
+  <!-- 第二张 GIF，也左浮动，紧跟在第一张后面 -->
   <img
-    align="right"
+    align="left"
     src="https://media.giphy.com/media/KHh7jLrG6gIXBTnxsp/giphy.gif?cid=ecf05e478uas0hmmsnf457taswzozw8buwto9kluzr2ste46&ep=v1_gifs_search&rid=giphy.gif&ct=g"
     alt="coding"
-    width="220"
+    width="300"
   />
+  <!-- 清除浮动，避免后续文字环绕 -->
+  <br clear="all" />
 </p>
+
 
 
 ![](assets/Bottom_down.svg)
