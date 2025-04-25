@@ -11,14 +11,15 @@
 - 🌱  My current research directions are 3D reconstruction and embodied intelligence
 - ☕   Python, React, C/C++, Next.js...
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td style="border: none; padding: 0;">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default&langs_count=5" alt="Top Languages"/><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default&langs_count=5&hide=html" alt="Other Languages"/>
     </td>
-    <td style="border: none; padding: 0;">
-      <img alt="coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw3bWdpemd6bHFoa3BtMDV6ZndsZGh2c2hmcGhmMW95N2I2cmpybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y9eMvvoSquSNCilfDT/giphy.gif">
+    <td>
+       <img alt="coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw3bWdpemd6bHFoa3BtMDV6ZndsZGh2c2hmcGhmMW95N2I2cmpybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y9eMvvoSquSNCilfDT/giphy.gif">
+    </td>
     </td>
   </tr>
 </table>
