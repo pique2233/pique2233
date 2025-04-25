@@ -14,12 +14,11 @@
   <!-- 左侧：Most Used Languages -->
   <div style="display: flex; flex-direction: column; gap: 8px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default&langs_count=5" alt="Top Languages" style="max-width: 100%; height: auto;">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default&langs_count=5" alt="Top Languages" style="max-width: 100%; height: auto;">
   </div>
   
   <!-- 右侧：GIF 图片 -->
   <div>
-    <img alt="coding" width="500" src="https://media.giphy.com/media/KHh7jLrG6gIXBTnxsp/giphy.gif?cid=ecf05e478uas0hmmsnf457taswzozw8buwto9kluzr2ste46&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="max-width: 100%; height: auto;">
+    <img alt="coding" width="400" src="https://media.giphy.com/media/KHh7jLrG6gIXBTnxsp/giphy.gif?cid=ecf05e478uas0hmmsnf457taswzozw8buwto9kluzr2ste46&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="max-width: 100%; height: auto;">
   </div>
 </div>
 
