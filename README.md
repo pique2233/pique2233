@@ -14,7 +14,7 @@
   <!-- 第一张语言图，左浮动 -->
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default&langs_count=7"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default&langs_count=10"
     alt="Top Languages"
     width="400"
   />
