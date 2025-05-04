@@ -10,6 +10,9 @@
 - 🔭  I'm a college student majoring in SE from Southwest University
 - 🌱  My current research directions are 3D reconstruction and embodied intelligence
 - ☕   Python, React, C/C++, Next.js...
+- 
+![](https://raw.githubusercontent.com/pique2233/git-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/pique2233/git-stats/master/generated/languages.svg#gh-light-mode-only)
 <p>
   <!-- 第一张语言图，左浮动 -->
   <img
