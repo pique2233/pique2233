@@ -11,12 +11,12 @@
 - 🌱  My current research directions are 3D reconstruction and embodied intelligence
 - ☕   Python, React, C/C++, Next.js...
 
-  
+
 <p>
   <!-- 替换后的第一张语言图（SVG），左浮动 -->
   <img
     align="left"
-    src="https://raw.githubusercontent.com/pique2233/git-stats/master/generated/languages.svg#gh-dark-mode-only"
+    src="https://raw.githubusercontent.com/pique2233/git-stats/master/generated/languages.svg#gh-light-mode-only"
     alt="Top Languages"
     width="400"
   />
