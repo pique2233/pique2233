@@ -10,18 +10,17 @@
 - 🔭  I'm a college student majoring in SE from Southwest University
 - 🌱  My current research directions are 3D reconstruction and embodied intelligence
 - ☕   Python, React, C/C++, Next.js...
-- 
-![](https://raw.githubusercontent.com/pique2233/git-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/pique2233/git-stats/master/generated/languages.svg#gh-light-mode-only)
+
+  
 <p>
-  <!-- 第一张语言图，左浮动 -->
+  <!-- 替换后的第一张语言图（SVG），左浮动 -->
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pique2233&layout=compact&hide_border=true&theme=default&langs_count=10"
+    src="https://raw.githubusercontent.com/pique2233/git-stats/master/generated/languages.svg#gh-dark-mode-only"
     alt="Top Languages"
     width="400"
   />
-  <!-- 第二张 GIF，也左浮动，紧跟在第一张后面 -->
+  <!-- 第二张 GIF，也左浮动，紧跟在语言图后面 -->
   <img
     align="left"
     src="https://media.giphy.com/media/KHh7jLrG6gIXBTnxsp/giphy.gif?cid=ecf05e478uas0hmmsnf457taswzozw8buwto9kluzr2ste46&ep=v1_gifs_search&rid=giphy.gif&ct=g"
