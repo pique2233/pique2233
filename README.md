@@ -8,8 +8,8 @@
 <hr>
 
 - 🔭  I'm a college student majoring in SE from Southwest University
-- 🌱  My current research directions are 3D reconstruction and embodied intelligence
-- ☕   Python, React, C/C++, Next.js...
+- 🌱  My current research directions are Image generation and  3D reconstruction
+- ☕   Python, React, C/C++, java, Next.js, Lora...
 
 
 <p>
