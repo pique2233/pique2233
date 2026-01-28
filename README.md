@@ -8,7 +8,7 @@
 <hr>
 
 - 🔭  I'm a college student majoring in SE from Southwest University
-- 🌱  My current research directions are Image generation and  3D reconstruction
+- 🌱  My current research directions are Image generation and DeepFake
 - ☕   Python, React, C/C++, java, Next.js, Lora...
 
 
